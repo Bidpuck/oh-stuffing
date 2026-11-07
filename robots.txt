@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://btarcau.github.io/oh-stuffing/sitemap.xml
+Sitemap: https://bidpuck.github.io/oh-stuffing/sitemap.xml

@@ -2,7 +2,7 @@
 
 A playful, phone-friendly scoreboard for the trick-taking card game **Oh Stuffing** (a.k.a. *Oh Hell / Oh Pshaw / Nomination Whist*). No accounts, no server — everything runs in your browser and saves automatically as you play. Light and dark themes included.
 
-👉 **Live app:** https://btarcau.github.io/oh-stuffing/
+👉 **Live app:** https://bidpuck.github.io/oh-stuffing/
 
 ![Oh Stuffing! — the friendly scorekeeper](og-image.png)
 
